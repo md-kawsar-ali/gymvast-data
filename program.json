@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "image": "https://i.ibb.co/TPLC69d/functional-training.png",
+        "title": "Functional training",
+        "description": "Endurance training / High-intensity interval training",
+        "price": "199"
+    },
+    {
+        "id": "02",
+        "image": "https://i.ibb.co/mXghTsw/strength-training.png",
+        "title": "Strength training",
+        "description": "Training with free weights as well as dumbbells",
+        "price": "299"
+    },
+    {
+        "id": "03",
+        "image": "https://i.ibb.co/Tv7j4W2/pilates.png",
+        "title": "Pilates",
+        "description": "Stretching and working with your joints and tendons",
+        "price": "220"
+    },
+    {
+        "id": "04",
+        "image": "https://i.ibb.co/yW9pHZv/hatha-yoga.png",
+        "title": "Hatha yoga",
+        "description": "Improving posture and restoring muscle elasticity",
+        "price": "320"
+    }
+]
